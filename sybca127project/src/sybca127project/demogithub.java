@@ -7,6 +7,9 @@ public class demogithub {
 
 		System.out.println("Hello World");
 	}
-	
+	void display () {
+		System.out.println("branch commit ");
+
+	}
 
 }
