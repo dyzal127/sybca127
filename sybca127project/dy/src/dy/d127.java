@@ -7,5 +7,9 @@ public class d127 {
 		System.out.println("hello");
 
 	}
+	void display () {
+		System.out.println("branch B2");
+		
+	}
 
 }
